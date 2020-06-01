@@ -8,6 +8,7 @@ nodeJs를 이용한 로그인, 로그아웃 화면을 구성하고, express , pa
 
 - nodeJS + Express 웹서버 설정 Request,Response 처리 Database 연동 Router 개선 - 모듈화 DB에 데이터추가 패스포트기반 인증 로직 구현 (회원가입, 로그인, 로그아웃) RESTful API
 
+Express란? Express.js는 Node.js의 핵심 모듈인 http와 Connect 컴포넌트를 기반으로 하는 웹 프레임워크다.
 
 명령어
 - 웹 프로젝트 실행: node app.js
