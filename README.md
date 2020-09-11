@@ -1,7 +1,7 @@
 # Node.js 웹개발로 알아보는 백엔드 자바스크립트의 이해
 
-> 인프런 사이트의 강의로 이루어진 자료입니다. 
-> URL: https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C
+* 인프런 사이트의 강의로 이루어진 자료입니다. 
+* URL: https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C
 
 ## 강좌소개
 ```
