@@ -1,7 +1,7 @@
 # Node.js 웹개발로 알아보는 백엔드 자바스크립트의 이해
 
 > 인프런 사이트의 강의로 이루어진 자료입니다. 
-URL: https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C
+> URL: https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C
 
 ## 강좌소개
 ```
@@ -11,5 +11,4 @@ JavaScript언어는 Node.js, 를 통해서 Back-end에서도 많이 활용되고
 
 이런 추세에서 Node.js,는 꽤 적절한 백엔드 기술이라 할 수 있습니다. 따라서 SPA를 개발할 때 필요한 필수 백엔드 기술이 무엇이고, 어떻게 클라이언트와 상호작용을 하는지 이해하는 것은 중요합니다. 이 강의에서는 풀스택 개발자가 아니더라도, 프론트엔드 전문 개발자가 알아두면 유용한 지식과 기술을 다룹니다. 본 과정을 통해서 웹애플리케이션의 동작방식을 좀더 이해할 수 있습니다.
 ```
-
-## <font color="blue"></font>
+<span style="color:blue">some *This is Blue italic.* text</span>
