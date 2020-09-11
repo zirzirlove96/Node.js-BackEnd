@@ -14,3 +14,10 @@ JavaScript언어는 Node.js, 를 통해서 Back-end에서도 많이 활용되고
 --------------------------------------------------------------------------------------------
 <span style="color:blue">*배우는 것들*</span>
 >nodeJS + Express 웹서버 설정 Request,Response 처리 Database 연동 Router 개선 - 모듈화 DB에 데이터추가 패스포트기반 인증 로직 구현 (회원가입, 로그인, 로그아웃) RESTful API
+
+### 특징
+*웹개발 초급난이도 과정.
+*Node.js, Express를 기반으로 한 웹애플리케이션 구축.
+*Template Engine
+*Ajax와 JSON을 활용한 RESTful API 기반 웹 서비스 기초.
+*Passport기반의 인증처리 방법.
