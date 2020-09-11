@@ -1,14 +1,15 @@
-* Node.JS란?
+# Node.js 웹개발로 알아보는 백엔드 자바스크립트의 이해
 
-Javascript언어를 사용하여 프론트엔드를 개발하는 것이 아닌 백 엔드 개발을 할 수 있도록 고안된 언어이다.
+> 인프런 사이트의 강의로 이루어진 자료입니다. 
+URL: https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C
 
-nodeJs를 이용한 로그인, 로그아웃 화면을 구성하고, express , passport 등 다양한 모듈을 사용하여 nodeJs에 대한 기본적인 부분을 구성해 보았습니다.
+## 강좌소개
+```
+JavaScript언어는 Node.js, 를 통해서 Back-end에서도 많이 활용되고 있습니다.
 
-배우는 것들
+본 강좌에서는 Node.js,의 핵심기능을 다루면서 백엔드에서 자바스크립트가 어떻게 동작하는지를 알아보고, Angular나 React와 같은 복잡한 애플리케이션 개발(SPA)에 필요한 back-end 핵심 요소를 다룹니다. SPA(Single Page Application) 개발에서는 Template 조작과 Routing 처리를 클라이언트와 백엔드에서 나눠 하기도 합니다. 또한 백엔드에서는 RESTful API를 제공하는 역할을 주로 하는 경우도 있습니다. 
 
-- nodeJS + Express 웹서버 설정 Request,Response 처리 Database 연동 Router 개선 - 모듈화 DB에 데이터추가 패스포트기반 인증 로직 구현 (회원가입, 로그인, 로그아웃) RESTful API
+이런 추세에서 Node.js,는 꽤 적절한 백엔드 기술이라 할 수 있습니다. 따라서 SPA를 개발할 때 필요한 필수 백엔드 기술이 무엇이고, 어떻게 클라이언트와 상호작용을 하는지 이해하는 것은 중요합니다. 이 강의에서는 풀스택 개발자가 아니더라도, 프론트엔드 전문 개발자가 알아두면 유용한 지식과 기술을 다룹니다. 본 과정을 통해서 웹애플리케이션의 동작방식을 좀더 이해할 수 있습니다.
+```
 
-Express란? Express.js는 Node.js의 핵심 모듈인 http와 Connect 컴포넌트를 기반으로 하는 웹 프레임워크다.
-
-명령어
-- 웹 프로젝트 실행: node app.js
+## <font color="blue"></font>
